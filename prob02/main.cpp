@@ -7,11 +7,11 @@ int main()
   double hours, rate, pay;
 
   // Get the number of hours worked.
-  std::cout << "How many hours did you work? ";
+  std::cout << "Enter the number of candy bars sold: ";
   std::cin >> hours;
 
   // Get the hourly pay rate.
-  std::cout << "How much do you get paid per hour? ";
+  std::cout << "How much does each candy bar cost?   ";
   std::cin >> rate;
 
   // Calculate the pay.
